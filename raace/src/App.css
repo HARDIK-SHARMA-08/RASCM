@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat";
+}
+
+ul {
+  list-style: none;
+}
+
+#footer a,
+#contactUs a {
+  text-decoration: underline;
+  color: #000000;
+}
+
+#footer a:hover,
+#contactUs a:hover {
+  text-decoration: underline;
+  color: #000000;
+  font-weight: bolder;
+}
+
+#footer a:visited,
+#contactUs a:visited {
+  color: #000000;
+}
+
+ol {
+  list-style: decimal;
+}
