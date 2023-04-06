@@ -25,35 +25,54 @@ function Contact() {
             </p>
           </div>
           <div className="Contact-number">
-            <h1> Organizing Secretary </h1>{" "}
+            <h1> Convenor </h1>{" "}
             <p>
               {" "}
               <ul>
                 <div className="number">
                   <li>
                     {" "}
-                    <p> Mr. Nishant Sachdeva </p>
-                    <i class="fa fa-phone"></i>{" "}
-                    <a href="tel:+917737049665"> +91 7737049665</a>
-                  </li>{" "}
-                  <li>
-                    {" "}
-                    <p> Dr. Ankit Sharma </p>
-                    <i class="fa fa-phone"></i>{" "}
-                    <a href="tel:+917737238044"> +91 7737238044 </a>
-                  </li>{" "}
-                  <li>
-                    {" "}
                     <p> Dr. Kishan Lal Jain </p>
                     <i class="fa fa-phone"></i>{" "}
-                    <a href="tel:+918824431753"> +91 8824431753 </a>
+                    <a href="tel:+918824431753"> +91 8824431753 </a> <br />
+                    <i class="fa fa-envelope"></i>{" "}
+                    <a href="mailto:Kishan.jain@skit.ac.in">
+                      kishan.jain@skit.ac.in
+                    </a>
                   </li>{" "}
+                  <br />
                   <li>
                     {" "}
                     <p>Dr. Abhishek Jain</p>
                     <i class="fa fa-phone"></i>{" "}
-                    <a href="tel:+918058170872"> +91 8058170872 </a>
+                    <a href="tel:+918058170872"> +91 8058170872 </a> <br />
+                    <i class="fa fa-envelope"></i>{" "}
+                    <a href="mailto:abhishek.jain@skit.ac.in">
+                      abhishek.jain@skit.ac.in
+                    </a>
                   </li>
+                  <br />
+                  <li>
+                    {" "}
+                    <p> Dr. Ankit Sharma </p>
+                    <i class="fa fa-phone"></i>{" "}
+                    <a href="tel:+917737238044"> +91 7737238044 </a> <br />
+                    <i class="fa fa-envelope"></i>{" "}
+                    <a href="mailto:ankit.sharma@skit.ac.in">
+                      ankit.sharma@skit.ac.in
+                    </a>
+                  </li>{" "}
+                  <br />
+                  <li>
+                    {" "}
+                    <p> Er. Nishant Sachdeva </p>
+                    <i class="fa fa-phone"></i>{" "}
+                    <a href="tel:+917737049665"> +91 7737049665</a> <br />
+                    <i class="fa fa-envelope"></i>{" "}
+                    <a href="mailto:nishant.sachdeva@skit.ac.in">
+                      nishant.sachdeva@skit.ac.in
+                    </a>
+                  </li>{" "}
                 </div>
               </ul>
             </p>

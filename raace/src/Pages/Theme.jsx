@@ -15,7 +15,7 @@ export const Theme = (props) => {
         </div>
         <div className="Theme-content">
           <ul>
-            <li> Sustainable construction materials </li>
+            <li>Sustainable construction materials </li>
             <li>Green materials and technology</li>
             <li>Construction automation</li>
             <li>Material characterization and testing</li>
@@ -27,12 +27,13 @@ export const Theme = (props) => {
             <li>Sustainable infrastructure</li>
             <li>Water & waste water management</li>
             <li>Solid waste management</li>
-            <li>Disaster mitigation & management</li>
             <li>Innovative testing methods</li>
             <li>
               Ground improvement techniques GIS and Remote Sensing applications
             </li>
             <li>Renewable energy applications</li>
+            <li>Soil structure interaction</li>
+            <li>Innovative trends in civil engineering and material science</li>
           </ul>
         </div>
       </div>

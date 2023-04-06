@@ -5,7 +5,7 @@ function Alert() {
     <>
       <div className="Box">
         {" "}
-        <p>Alert Message goes here.</p>
+        <p>Call for Abstract: 1<sup>st</sup> June 2023 - 15<sup>th</sup> September 2023</p>
       </div>
     </>
   );

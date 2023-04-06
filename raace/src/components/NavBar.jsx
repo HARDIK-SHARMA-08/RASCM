@@ -45,6 +45,18 @@ class Navigation extends Component {
             </li>
 
             <li>
+              <Link to="/publication" className="NavItem">
+                PUBLICATION
+              </Link>
+            </li>
+
+            <li>
+              <Link to="/dates" className="NavItem">
+                DATES
+              </Link>
+            </li>
+
+            <li>
               <Link to="/registration" className="NavItem">
                 REGISTRATION
               </Link>

@@ -1,8 +1,10 @@
 import React, { Component } from "react";
 import Alert from "./Alert";
 import Image from "../assets/img/intro-bg.jpeg";
-import Image1 from "../assets/img/CE.jpg"
-import department from "../assets/img/book.svg"
+import Image1 from "../assets/img/CE.jpg";
+import department from "../assets/img/book.svg";
+import IGBC from "../assets/img/IGBC.png";
+import ICI from "../assets/img/ICI.png";
 
 class AboutSection extends Component {
   render() {
@@ -49,11 +51,11 @@ class AboutSection extends Component {
             <img src={Image} alt="" srcset="" />
           </div>
           <div className="about-department">
-          <img src={Image1} alt="" srcset="" />
+            <img src={Image1} alt="" srcset="" />
             <div className="about-text-department">
               <div className="department">
-              <h1>About Department</h1>
-              <img src={department} alt="" />
+                <h1>About Department</h1>
+                <img src={department} alt="" />
               </div>
               <p>
                 Due to extraordinary growth in the infrastructure development in
@@ -69,6 +71,16 @@ class AboutSection extends Component {
                 members having excellent research credentials as well as
                 extensive industrial experience.
               </p>
+            </div>
+          </div>
+          <div className="technical">
+            <div className="collaboration">
+              <h1>Technical Collaborations</h1>
+            </div>
+            <div className="logos">
+              <img src={IGBC} alt="" srcset="" />
+
+              <img src={ICI} alt="" srcset="" />
             </div>
           </div>
         </div>

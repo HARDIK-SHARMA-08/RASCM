@@ -7,6 +7,8 @@ import Contact from "./Pages/ContactUs";
 import ScrollToTop from "./assets/ScrollToTop";
 import Registration from "./Pages/Registration";
 import { Committee } from "./Pages/Committee";
+import Dates from "./Pages/Dates";
+import Publication from "./Pages/Publication";
 
 const App = () => {
   return (
@@ -27,6 +29,14 @@ const App = () => {
           </Route>
           <Route path="/committee">
             <Committee />
+          </Route>
+          <Route path="/dates">
+            {" "}
+            <Dates />{" "}
+          </Route>
+          <Route path="/publication">
+            {" "}
+            <Publication />{" "}
           </Route>
           <Route path="/registration">
             {" "}

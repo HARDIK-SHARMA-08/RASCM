@@ -30,10 +30,16 @@ td {
 }
 
 @media screen and (max-width: 900px) {
+  .registration {
+    padding: 8rem 2rem 4rem 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+  }
   .registration > h1 {
     text-align: center;
     font-size: 60px;
     font-weight: 900;
-    opacity: 30%;
   }
 }

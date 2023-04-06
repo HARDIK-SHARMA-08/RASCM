@@ -1,0 +1,285 @@
+{
+  "ChiefPatron": [
+    {
+      "img": "img/1-28.png",
+      "name": "Shri Raja Ram Meel",
+      "job": "Patron, SKIT"
+    },
+    {
+      "img": "img/1-27.png",
+      "name": "Shri Surja Ram Meel",
+      "job": "Chairman, SKIT"
+    }
+  ],
+  "ConfereneChair": [
+    {
+      "img": "img/CC/1-36.png",
+      "name": "Dr. Praveen Kumar",
+      "job": "Professor & Head, Civil Engineering, IIT Roorkee"
+    },
+    {
+      "img": "img/CC/1-37.png",
+      "name": "Dr. Sandeep Choudhary",
+      "job": "Professor, Civil Engineering, IIT Indore"
+    },
+    {
+      "img": "img/CC/1-29.png",
+      "name": "Dr. D.K Sharma",
+      "job": "Professor & Head, Civil Engineering, SKIT Jaipur"
+    }
+  ],
+  "Convenor": [
+    {
+      "img": "img/C/1-31.png",
+      "name": "Dr. Kishan Lal Jain",
+      "job": "Associate Professor, Civil Engineering, SKIT Jaipur"
+    },
+    {
+      "img": "img/C/1-33.png",
+      "name": "Dr. Abhishek Jain",
+      "job": "Assistant Professor, Civil Engineering, SKIT Jaipur"
+    },
+    {
+      "img": "img/C/1-32.png",
+      "name": "Dr. Ankit Shrama",
+      "job": "Assistant Professor, Civil Engineering, SKIT Jaipur"
+    },
+    {
+      "img": "img/C/1-30.png",
+      "name": "Er. Nishant Sachdeva",
+      "job": "Associate Professor, Civil Engineering, SKIT Jaipur"
+    }
+  ],
+  "InternationalAdvisory": [
+    {
+      "img": "img/IA/1-06.png",
+      "name": "Dr. Wim Van den bergh",
+      "job": "Professor, Department Civil Engineering University of Antwerp, Belgium"
+    },
+    {
+      "img": "img/IA/1-09.png",
+      "name": "Dr. Mohamed Mostafa Hassan Mostafa",
+      "job": "Professor & Academic Leader Civil Engineering University of kwazulu-natal Durban, South Africa"
+    },
+    {
+      "img": "img/IA/1-01.png",
+      "name": "Dr. Pranshoo Solanki",
+      "job": "Professor, Construction Management Program, College of Applied Science and Technology, Illinois State University"
+    },
+    {
+      "img": "img/IA/1-05.png",
+      "name": "Dr. Bernhard Hofko",
+      "job": "Associate Professor, Civil and Environmental Engineering Technical University of Vienna (TU Wien) Vienna, Austria"
+    },
+    {
+      "img": "img/IA/1-02.png",
+      "name": "Dr. Sudarshan N. Raman",
+      "job": "Associate Professor and Head, Department of Civil Engineering, Monash University, Malaysia"
+    },
+    {
+      "img": "img/IA/1-07.png",
+      "name": "Dr. Cannone Falchetto Augusto",
+      "job": "Assistant Professor Civil Engineering Aalto University Espoo, Finland"
+    },
+    {
+      "img": "img/IA/1-03.png",
+      "name": "Dr. Prannoy Suraneni",
+      "job": "Assistant Professor, Civil and Architectural Engineering, University of Miami"
+    },
+
+    {
+      "img": "img/IA/1-35.png",
+      "name": "Dr. Davide Lo Presti",
+      "job": "Assistant Professor University of Palermo Italy & Visiting Academic University of Nottingham, United Kingdom"
+    },
+    {
+      "img": "img/IA/1-04.png",
+      "name": "Dr. Salman Siddique",
+      "job": "Scientist, International Research Centre for Construction and Building Materials, King Fahd University of Petroleum and Minerals, Kingdom of Saudi Arabia"
+    },
+    {
+      "img": "img/IA/1-08.png",
+      "name": "Dr. Surendra Chowdari Gatiganti",
+      "job": "Research Engineer National Center for Asphalt Technology Auburn University Alabama, USA"
+    }
+  ],
+  "NationalAdvisory": [
+    {
+      "img": "img/NA/1-11.png",
+      "name": "Dr. G.D. Ransinchung R.N.",
+      "job": "Professor, Department of Civil Engineering, IIT Roorkee"
+    },
+    {
+      "img": "img/NA/1-10.png",
+      "name": "Dr. B. Umashankar",
+      "job": "Professor, Department of Civil Engineering, IIT Hyderabad"
+    },
+    {
+      "img": "img/NA/1-34.png",
+      "name": "Dr. P. Ratish Kumar ",
+      "job": "Professor, Department of Civil Engineering NIT Warangal"
+    },
+    {
+      "img": "img/NA/1-13.png",
+      "name": "Dr. Mohd. Shafi Mir",
+      "job": "Professor, Department of Civil Engineering, NIT Srinagar"
+    },
+    {
+      "img": "img/NA/1-15.png",
+      "name": "Dr. Trilok Gupta",
+      "job": "Head & Professor, Department of Civil Engineering, College of Technology and Engineering, MPUAT, India"
+    },
+    {
+      "img": "img/NA/1-25.png",
+      "name": "Dr. Rajesh Goyal",
+      "job": "Professor, NICMAR Pune"
+    },
+    {
+      "img": "img/NA/1-14.png",
+      "name": "Dr. Rajesh Gupta",
+      "job": "Associate Professor, Department of Civil Engineering, MNIT Jaipur"
+    },
+    {
+      "img": "img/NA/1-16.png",
+      "name": "Dr. Nikhil Saboo",
+      "job": "Assistant Professor, Civil Engineering Department, IIT Roorkee"
+    },
+    {
+      "img": "img/NA/1-20.png",
+      "name": "Dr. Bhupendra Singh",
+      "job": "Assistant Professor, Department of Civil Engineering,IIT Jodhpur"
+    },
+    {
+      "img": "img/NA/1-21.png",
+      "name": "Dr. Arvind Kumar Jha",
+      "job": "Assistant Professor, Department of Civil Engineering, IIT Patna"
+    },
+    {
+      "img": "img/NA/1-17.png",
+      "name": "Dr. Sandeep Shrivastava",
+      "job": "Assistant Professor, Department of Civil Engineering, MNIT Jaipur"
+    },
+    {
+      "img": "img/NA/1-26.png",
+      "name": "Dr. Neha Shrivastava",
+      "job": "Assistant Professor, Department of Civil Engineering, MNIT Jaipur"
+    },
+    {
+      "img": "img/NA/1-23.png",
+      "name": "Dr. Shashikant Sharma",
+      "job": "Assistant Professor, NIT Jalandhar"
+    },
+    {
+      "img": "img/NA/1-12.png",
+      "name": "Dr. Maninder Singh",
+      "job": "Assistant Professor, Punjabi University"
+    },
+    {
+      "img": "img/NA/1-19.png",
+      "name": "Dr. Syed Ahmed Kabeer",
+      "job": "Assistant Professor, School of Architecture and Interior Design, SRM Institue of science & Technology"
+    },
+    {
+      "img": "img/NA/1-18.png",
+      "name": "Dr. Sanchit Anand",
+      "job": "Assistant Professor, Department of Civil Engineering, Manipal University Jaipur"
+    },
+    {
+      "img": "img/NA/1-24.png",
+      "name": "Mr. Gagandeep Singh",
+      "job": "Senior Scientist, Flexible Pavement Division, CSIR CRRI New Delhi"
+    },
+    {
+      "img": "img/NA/1-22.png",
+      "name": "Dr. Rajiv Kumar",
+      "job": "Scientist, Flexible Pavement Division, CSIR CRRI New Delhi"
+    }
+  ],
+  "Organize": [
+    {
+      "name": "Dr. B.L. Sharma,",
+      "job": "Professor, Dept. of Civil Engineering, SKIT Jaipur"
+    },
+    {
+      "name": "Er. Anirudh Mathur,",
+      "job": "Associate Professor, Dept. of Civil Engineering, SKIT Jaipur"
+    },
+    {
+      "name": "Dr. Pooja Gupta,",
+      "job": "Associate Professor, Dept. of Civil Engineering, SKIT Jaipur"
+    },
+    {
+      "name": "Er. Akash Johari,",
+      "job": "Assistant Professor, Dept. of Civil Engineering, SKIT Jaipur"
+    },
+    {
+      "name": "Er. Ankur Mishra,",
+      "job": "Assistant Professor, Dept. of Civil Engineering, SKIT Jaipur"
+    },
+    {
+      "name": "Dr. Bharathi M.,",
+      "job": "Assistant Professor, Dept. of Civil Engineering, SKIT Jaipur"
+    },
+    {
+      "name": "Er. Deepak Sharma,",
+      "job": "Assistant Professor, Dept. of Civil Engineering, SKIT Jaipur"
+    },
+    {
+      "name": "Mr. Gaurav Gupta,",
+      "job": "Assistant Professor, Dept. of Civil Engineering, SKIT Jaipur"
+    },
+    {
+      "name": "Mr. Jitendra Babulal Jangid,",
+      "job": "Assistant Professor, Dept. of Civil Engineering, SKIT Jaipur"
+    },
+    {
+      "name": "Dr. Jitendra Vyas,",
+      "job": "Assistant Professor, Dept. of Civil Engineering, SKIT Jaipur"
+    },
+    {
+      "name": "Mr. Manmohan Sharma,",
+      "job": "Assistant Professor, Dept. of Civil Engineering, SKIT Jaipur"
+    },
+    {
+      "name": "Dr. Nandini Moondra,",
+      "job": "Assistant Professor, Dept. of Civil Engineering, SKIT Jaipur"
+    },
+    {
+      "name": "Er. Nikhil Kumar Sharma,",
+      "job": "Assistant Professor, Dept. of Civil Engineering, SKIT Jaipur"
+    },
+    {
+      "name": "Er. Pawan Patidar,",
+      "job": "Assistant Professor, Dept. of Civil Engineering, SKIT Jaipur"
+    },
+    {
+      "name": "Er. Pooja Jain,",
+      "job": "Assistant Professor, Dept. of Civil Engineering, SKIT Jaipur"
+    },
+    {
+      "name": "Dr. Rakesh Choudhary,",
+      "job": "Assistant Professor, Dept. of Civil Engineering, SKIT Jaipur"
+    },
+    {
+      "name": "Er. Sitaram Saini,",
+      "job": "Assistant Professor, Dept. of Civil Engineering, SKIT Jaipur"
+    },
+    {
+      "name": "Dr. Sunita Tolani,",
+      "job": "Assistant Professor, Dept. of Civil Engineering, SKIT Jaipur"
+    },
+    {
+      "name": "Er. Vikas Vyas,",
+      "job": "Assistant Professor, Dept. of Civil Engineering, SKIT Jaipur"
+    }
+  ],
+  "Student": [
+    {
+      "name": "Mr. Hardik Sharma,",
+      "job": "3rd Year, Civil Engineering (Website Development)"
+    },
+    { "name": "Mr. Kanishk Bharadwaj,", "job": "2nd Year, Civil Engineering" },
+    { "name": "Aarti Rajpurohit,", "job": "2nd Year, Civil Engineering" },
+    { "name": "Daksh Meena,", "job": "2nd Year, Civil Engineering" }
+  ]
+}
